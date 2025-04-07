@@ -1,4 +1,8 @@
-Perfetto! Ecco gli **esercizi sulle forme canoniche** (FND e FNC) per algebra booleana, livello **scuola superiore**, da **1 a 4**:
+Note:
+
+FND = forma normale disgiuntiva = prima forma canonica
+
+FNC = forma normale congiuntiva = seconda forma canonica
 
 ---
 
@@ -55,7 +59,3 @@ Hai la funzione definita solo per i valori di output pari a **1**:
   - A=1, B=0, C=1
 
 Trova la **FND** della funzione.
-
----
-
-Se vuoi, posso anche prepararti il file PDF o Word con questi esercizi già impaginati. Fammi sapere!
